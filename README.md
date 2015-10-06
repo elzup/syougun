@@ -5,4 +5,4 @@
 推奨環境
 * Ubuntu
 * zsh
-* カレントディレクトリのMusicフォルダにsyougun.mp3を用意
+* ユーザディレクトリのMusicフォルダにsyougun.mp3を用意
